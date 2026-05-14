@@ -23,3 +23,5 @@ Trabalhe sempre no ramo de desenvolvimento, e depois espelhe as mudanças para o
 Para mudar de ramos:
 
  - git checkout <ramo>;
+
+Tô tentando
