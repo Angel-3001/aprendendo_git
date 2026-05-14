@@ -27,3 +27,6 @@ Trabalhe sempre no ramo de desenvolvimento, e depois espelhe as mudanças para o
 Para mudar de ramos:
 
  - git checkout <ramo>;
+
+Para espelhar o ramo, entre no ramo main, então, para atualizar:
+ - git merge <ramo> -m "Mensagem";
