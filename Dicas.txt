@@ -10,3 +10,11 @@ Para commitar:
 Para ver o status da pasta:
 
  - git status;
+
+Para desfazer um add:
+
+ - git reset;
+
+Para desfazer um commit:
+
+ - git reset HEAD~;
