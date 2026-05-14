@@ -1,0 +1,12 @@
+Para adicionar o arquivo editado no repositório:
+
+ - git add <FILE>;
+ - git add --all;
+
+Para commitar: 
+
+ - git commit -m "Mensagem";
+
+Para ver o status da pasta:
+
+ - git status;
