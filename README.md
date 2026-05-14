@@ -10,3 +10,4 @@ Neste momento, o repositório está em desenvolvimento e ainda estamos atualizan
 Vamos aprender a fazer um commit local.
 
 Agora, vamos treinar!
+Estamos treinando...
