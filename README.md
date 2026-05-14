@@ -8,3 +8,5 @@ Repositório para aprender git (T26).
 Neste momento, o repositório está em desenvolvimento e ainda estamos atualizando o README.
 
 Vamos aprender a fazer um commit local.
+
+Agora, vamos treinar!
