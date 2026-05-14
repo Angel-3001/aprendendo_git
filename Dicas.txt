@@ -18,3 +18,7 @@ Para desfazer um add:
 Para desfazer um commit:
 
  - git reset HEAD~;
+
+Depois de alterar na nuvem, para puxar para o local:
+
+ - git pull;
