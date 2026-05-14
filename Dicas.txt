@@ -18,3 +18,5 @@ Para desfazer um add:
 Para desfazer um commit:
 
  - git reset HEAD~;
+
+Trabalhe sempre no ramo de desenvolvimento, e depois espelhe as mudanças para o ramo principal.
